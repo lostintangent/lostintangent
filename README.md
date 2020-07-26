@@ -4,7 +4,7 @@ I'm a PM at Microsoft, and have spent the last 15 years working on developer too
 
 ## 🏢 Stuff I Work On During The Week
 
-- [Codespaces](https://github.com/features/codespaces) - Spin up a new developer environmen for any GitHub repo, and be up-and-running in seconds, without needing to setup anything. Readmes, and "works on my machine" are a thing of the past!
+- [Codespaces](https://github.com/features/codespaces) - Spin up a new developer environment for any GitHub repo, and be up-and-running in seconds, without needing to setup anything. Readmes, and "works on my machine" are a thing of the past!
 
 - [Live Share](https://aka.ms/vsls) - Collaboratively edit and debug in real-time, without needing to leave your editor. Keep your personalized editor setup, and pair program in a way that's actually [enjoyable](https://aka.ms/vsls-modality).
 
