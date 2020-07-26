@@ -1,6 +1,6 @@
 # Hi! I'm JC 👋
 
-I'm a PM at Microsoft, and have had the privledge of working on a bunch of developer tools and services over the last 15 years (e.g. Visual Studio, ASP.NET, browser tools for IE, CodePush). I'm extremely passionate about developer productivity and collaboration, and in particular, helping to make it easier to contribute to projects, share ideas amongst your teams and the community, and supporting a distributed workforce.
+I'm a PM at Microsoft, and have had the priviledge of working on a bunch of developer tools and services over the last 15 years (e.g. Visual Studio, ASP.NET, browser tools for IE, CodePush). I'm extremely passionate about developer productivity and collaboration, and in particular, helping to make it easier to contribute to projects, share ideas amongst your teams and the community, and supporting a distributed workforce.
 
 ## 🏢 Stuff I Work On During The Week
 
