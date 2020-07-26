@@ -10,7 +10,7 @@ I'm a PM at Microsoft, and have spent the last 15 years working on developer too
 
 - [IntelliCode]
 
-## 🏝️Stuff I Build On Weekends
+##  🏝️Stuff I Build On Weekends
 
 I love [Visual Studio Code](https://code.visualstudio.com), and in particular, it's extensibility ecosystem. As a result, I work on a few extensions that allow me to explore new ideas in developer collaboration and knowledge sharing:
 
