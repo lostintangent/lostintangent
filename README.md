@@ -14,7 +14,7 @@ I'm a PM at Microsoft, and have spent the last 15 years working on developer too
 
 I love [Visual Studio Code](https://code.visualstudio.com), and in particular, it's extensibility ecosystem. As a result, I work on a few extensions that allow me to explore new ideas in developer collaboration and knowledge sharing:
 
-- [GistPad](https://aka.ms/gistpad) - Create and edit GitHub Gists and repos, directly from the editor, and without needing to clone anything. I think of GitHub as the universal developer storage, and so GistPad is trying to provide a remotely editable client 👍
+- [GistPad](https://aka.ms/gistpad) - Create and edit GitHub Gists and repos, directly from the editor, and without needing to clone anything. I think of GitHub as the universal developer storage, and so GistPad is trying to provide a remotely editable client, so that it's easier to edit and access your knowledge 👍
 
 - [CodeTour](https://aka.ms/codetour) - Record and playback guided tutorials for your codebases. It's like a table-of-contents for a project, and helps walk team members through a codebase, directly from the comfort of their editor.
 
