@@ -18,7 +18,7 @@ I love [Visual Studio Code](https://code.visualstudio.com), and in particular, i
 
 - [GistPad](https://aka.ms/gistpad) - Create and edit GitHub Gists and repos, directly from the editor, and without needing to clone anything. I think of GitHub as the universal developer storage, and so GistPad is trying to provide a remotely editable client, so that it's easier to edit and access your knowledge 👍
 
-- [CodeSwing](https://aka.ms/codeswing) - A func and interactive coding environment for building web applications snippets (aka "swings")
+- [CodeSwing](https://aka.ms/codeswing) - A fun and interactive coding environment for building web applications snippets (aka "swings").
 
 - [FlashCode](https://marketplace.visualstudio.com/items?itemName=codespaces-Contrib.flashcode) - Create and review developer-oriented flash card decks, directly within VS Code. 
 
