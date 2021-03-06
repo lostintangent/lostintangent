@@ -20,6 +20,6 @@ I love [Visual Studio Code](https://code.visualstudio.com), and in particular, i
 
 - [CodeSwing](https://aka.ms/codeswing) - A fun and interactive coding environment for building web applications snippets (aka "swings").
 
-- [FlashCode](https://marketplace.visualstudio.com/items?itemName=codespaces-Contrib.flashcode) - Create and review developer-oriented flash card decks, directly within VS Code. 
-
 - [GitDoc](https://aka.ms/gitdoc) - Edit a local Git repo like a multi-file, versioned document. Auto-commit your changes, easily manage histor, and your your changes in sync, without needing to care about the Git CLI at all!
+
+- [FlashCode](https://marketplace.visualstudio.com/items?itemName=codespaces-Contrib.flashcode) - Create and review developer-oriented flash card decks, directly within VS Code. 
