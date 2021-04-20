@@ -2,8 +2,6 @@
 
 I'm a PM at Microsoft, and have had the priviledge of working on a bunch of developer tools and services over the last 15 years (e.g. Visual Studio, ASP.NET, browser tools for IE, CodePush). I'm extremely passionate about developer productivity and collaboration, and in particular, helping to make it easier to contribute to projects, share ideas amongst your teams and the community, and supporting a distributed workforce.
 
-⏰ [Office Hours](https://calendly.com/lostintangent): If you'd like to chat about any of the stuff below, feel free to setup some time. We can discuss feedback, questions, how you're using them, or anything in between 🙌
-
 ## 🏢 Stuff I Work On During The Week
 
 - [Codespaces](https://aka.ms/vscs) - Spin up a new developer environment for any GitHub repo, and be up-and-running in seconds, without needing to setup anything. Readmes, and "works on my machine" are a thing of the past!
