@@ -1,18 +1,8 @@
 # Hi! I'm JC 👋
 
-I'm a PM at Microsoft, and have had the priviledge of working on a bunch of developer tools and services over the last 15 years (e.g. Visual Studio, ASP.NET, browser tools for IE, CodePush). I'm extremely passionate about developer productivity and collaboration, and in particular, helping to make it easier to contribute to projects, share ideas amongst your teams and the community, and supporting remote-first cultures.
+I'm a PM at GitHub, and have had the priviledge of working on a bunch of developer tools and services over the last 15 years (e.g. Codespaces, IntelliCode, Live Share, ASP.NET, browser tools for IE, CodePush). I'm extremely passionate about developer productivity and collaboration, and in particular, helping to make it easier to contribute to projects, share ideas amongst your teams and the community, and supporting remote-first cultures.
 
-## 🏢 Stuff I Work On During The Week
-
-- [Codespaces](https://aka.ms/vscs) - Spin up a new developer environment for any GitHub repo, and be up-and-running in seconds, without needing to setup anything. Readmes, and "works on my machine" are a thing of the past!
-
-- [Live Share](https://aka.ms/vsls) - Collaboratively edit and debug in real-time, without needing to leave your editor. Keep your personalized editor setup, and pair program in a way that's actually [enjoyable](https://aka.ms/vsls-modality).
-
-- [IntelliCode](https://aka.ms/vsintellicode) - AI-assisted development, that uses the wisdom of the GitHub community to make every part of the IDE more intelligent and assistive. Technology is changing at an insane rate, and your tools should be there to help you on that journey!
-
-## 🏝️ Stuff I Build On Weekends
-
-I love [Visual Studio Code](https://code.visualstudio.com), and in particular, it's extensibility ecosystem. As a result, I work on a few extensions that allow me to explore new ideas in developer collaboration and knowledge sharing:
+I also love [Visual Studio Code](https://code.visualstudio.com), and in particular, it's extensibility ecosystem. As a result, I work on a few extensions that allow me to explore new ideas in developer collaboration and knowledge sharing:
 
 - [CodeTour](https://aka.ms/codetour) - Record and playback guided tutorials for codebases. It's like a table-of-contents for projects, and helps walk developers members through a codebase, directly from the comfort of their editor.
 
