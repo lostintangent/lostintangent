@@ -1,6 +1,6 @@
 # Hi! I'm JC 👋
 
-I'm a PM at GitHub, and have had the priviledge of working on a bunch of developer tools and services over the last 15 years (e.g. Codespaces, IntelliCode, Visual Studio, Live Share, ASP.NET, browser tools for IE, CodePush). I'm extremely passionate about developer productivity and collaboration, and in particular, helping to make it easier to contribute to projects, share ideas amongst your teams and the community, and supporting remote-friendly cultures.
+I have the privilege of leading the [GitHub Next](https://githubnext.com) team, and exploring the future of software. Between GitHub and Microsoft (where I previously worked), I've had a chance to build lots of cool and interesting developer tools and services over the last 16 years (e.g. Codespaces, IntelliCode, Visual Studio, Live Share, ASP.NET, browser tools for IE, CodePush). I'm extremely passionate about developer productivity and collaboration, and in particular, helping to make it easier to contribute to projects, share ideas amongst your teams and the community, and supporting remote-friendly cultures.
 
 I also love [Visual Studio Code](https://code.visualstudio.com), and in particular, it's extensibility ecosystem. As a result, I work on a few extensions that allow me to explore new ideas in developer collaboration and knowledge sharing:
 
