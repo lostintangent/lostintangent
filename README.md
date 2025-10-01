@@ -1,6 +1,6 @@
 # Hi! I'm JC 👋
 
-I work at GitHub and like to explore the future of software. Between GitHub and Microsoft (where I previously worked), I've had a chance to build some fun stuff over the last 18 years (e.g. Codespaces, Github Spark, IntelliCode, Visual Studio, Live Share, ASP.NET, browser tools for IE, CodePush).
+I work at GitHub and like to explore the future of software. Between GitHub and Microsoft (where I previously worked), I've had a chance to build some fun stuff over the last 18 years (e.g. Codespaces, GitHub Spark, IntelliCode, Visual Studio, Live Share, ASP.NET, browser tools for IE, CodePush).
 
 I also love [Visual Studio Code](https://code.visualstudio.com), and in particular, it's extensibility ecosystem. As a result, I work on a few extensions that allow me to optmiize my personal workflow, and noodle on ideas in developer collaboration/knowledge sharing:
 
