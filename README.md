@@ -6,7 +6,7 @@ I also love building my own bespoke dev tools, and owning my entire stack (up to
 
 1. 🧸 [Toy Box](https://github.com/lostintangent/toy-box) - An agentic developer environment, with support for traditional sessions, scheduled automations, generative apps, tons of artifact surfaces, and multi-agent channels. It has a server, a PWA, a macOS desktop app, and an iPhone app. This is what I do all my development with.
 
-2. 📘 [GistPad](https://github.com/lostintangent/gistpad.dev) - A personal knowledge base/note-taking app, built entirely on GitHub Gists. I love Gists, and GistPad adds a ton of value on top of them: threaded commenting, tags, archiving, daily notes, better multi-file workflows, a new dashboard, and more. This is what I do all my writing in.
+2. 📘 [GistPad](https://github.com/lostintangent/gistpad.dev) - A personal knowledge base/note-taking app, built entirely on GitHub Gists. I love Gists, and GistPad adds a ton of value on top of them: richer commenting, tags, archiving, daily notes, a news dashboard, a [VS Code extension](https://github.com/lostintangent/gistpad), an [MCP server](https://github.com/lostintangent/gistpad-mcp) and more. This is what I do all my writing in.
 
 3. 🔌 [Conduit](https://github.com/lostintangent/conduit) - A "workspace manager" that allows composing tabs of panes, where a pane is either a terminal, an editor, or a browser. So think of this like a better terminal that's been optimized for running agents in. This is what I use for local dev, but increasingly, Toy Box handles most things.
 
