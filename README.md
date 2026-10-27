@@ -1,13 +1,13 @@
 # Hi! I'm JC 👋
 
-I work at GitHub and like to explore the future of software. Between GitHub and Microsoft (where I previously worked), I've had a chance to build some fun stuff over the last 18 years (e.g. Codespaces, Github Spark, IntelliCode, Visual Studio, Live Share, ASP.NET, browser tools for IE, CodePush).
+I work at Microsoft and like to explore the future of software. Between Microsoft and GitHub (where I previously worked), I've had a chance to build some fun stuff over the last 18 years (e.g. Codespaces, Github Spark, IntelliCode, Visual Studio, Live Share, ASP.NET, browser tools for IE, CodePush).
 
-I also love [Visual Studio Code](https://code.visualstudio.com), and in particular, it's extensibility ecosystem. As a result, I work on a few extensions that allow me to optmiize my personal workflow, and noodle on ideas in developer collaboration/knowledge sharing:
+I also love building my own bespoke dev tools, and owning my entire stack (up to a point 😄) In particular, I maintain the following tools, which represent my holilistic daily drivers:
 
-- [GistPad](https://aka.ms/gistpad) - Create and edit GitHub Gists and repos, directly from the editor, and without needing to clone anything. I think of GitHub as the universal developer storage, and so GistPad is trying to provide a remotely editable client, so that it's easier to edit and access your knowledge 👍
-  
-- [CodeTour](https://aka.ms/codetour) - Record and playback guided tutorials for codebases. It's like a table-of-contents for projects, and helps walk developers through a codebase, directly from the comfort of their editor.
+1. 🧸 [Toy Box](https://github.com/lostintangent/toy-box) - An agentic developer environment, with support for traditional sessions, scheduled automations, generative apps, tons of artifact surfaces, and multi-agent channels. It has a server, a PWA, a macOS desktop app, and an iPhone app. This is what I do all my development with.
 
-- [CodeSwing](https://aka.ms/codeswing) - A fun and interactive coding environment for building web applications snippets (aka "swings").
+2. 📘 [GistPad](https://github.com/lostintangent/gistpad.dev) - A personal knowledge base/note-taking app, built entirely on GitHub Gists. I love Gists, and GistPad adds a ton of value on top of them: threaded commenting, tags, archiving, daily notes, better multi-file workflows, a new dashboard, and more. This is what I do all my writing in.
 
-- [GitDoc](https://aka.ms/gitdoc) - Edit a local Git repo like a multi-file, versioned document. Auto-commit your changes, easily manage history, and keep your changes in sync, without needing to care about the Git CLI at all!
+3. 🔌 [Conduit](https://github.com/lostintangent/conduit) - A "workspace manager" that allows composing tabs of panes, where a pane is either a terminal, an editor, or a browser. So think of this like a better terminal that's been optimized for running agents in. This is what I use for local dev, but increasingly, Toy Box handles most things.
+
+4. 🥬 [Documint](https://github.com/lostintangent/documint) - A Markdown WYSIWYG for the web, that's 100% bespoke and built for responsiveness and mobile. It's a custom 2D canvas with its own parser, layout system, reactive store, etc. all of which is meant to keep it lean and fast. This is embedded in all my other projects.
