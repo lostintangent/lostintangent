@@ -1,6 +1,6 @@
 # Hi! I'm JC 👋
 
-I work at Microsoft and like to explore the future of software. Between Microsoft and GitHub (where I previously worked), I've had a chance to build some fun stuff over the last 18 years (e.g. Codespaces, Github Spark, IntelliCode, Visual Studio, Live Share, ASP.NET, browser tools for IE, CodePush).
+I work at Microsoft and like to explore the future of software. Between Microsoft and GitHub (where I previously worked), I've had a chance to build some fun stuff over the last 19 years (e.g. Codespaces, Github Spark, IntelliCode, Visual Studio, Live Share, ASP.NET, browser tools for IE, CodePush).
 
 I also love building my own bespoke dev tools, and owning my entire stack (up to a point 😄) In particular, I maintain the following tools, which represent my holilistic daily drivers:
 
@@ -11,3 +11,7 @@ I also love building my own bespoke dev tools, and owning my entire stack (up to
 3. 🔌 [Conduit](https://github.com/lostintangent/conduit) - A "workspace manager" that allows composing tabs of panes, where a pane is either a terminal, an editor, or a browser. So think of this like a better terminal that's been optimized for running agents in. This is what I use for local dev, but increasingly, Toy Box handles most things.
 
 4. 🥬 [Documint](https://github.com/lostintangent/documint) - A Markdown WYSIWYG for the web, that's 100% bespoke and built for responsiveness and mobile. It's a custom 2D canvas with its own parser, layout system, reactive store, etc. all of which is meant to keep it lean and fast. This is embedded in all my other projects.
+
+5. 🌊 [Oshen](https://github.com/lostintangent/oshen) - A terminal shell that's built with the speed of Zsh and the ergonomics/usability of Fish. I use this everyday (with Conduit) but it's 100% not broadly-consumable, since I've chosen not to make it fully POSIX compliant. That said, it's pretty cool.
+
+Outside of my own tools, my dev stack of choice consists of: Bun, React, Tan Stack (Query, Router, Store, Start), Base UI/Motion, and Vite. And then for macOS/iOS, it's obviously just SwiftPM and the gang 👍
